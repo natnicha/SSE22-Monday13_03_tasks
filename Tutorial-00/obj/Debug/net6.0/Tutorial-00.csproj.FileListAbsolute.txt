@@ -1,0 +1,15 @@
+C:\Users\natni\source\repos\SSE22-Monday13_03_tasks\Tutorial-00\bin\Debug\net6.0\Tutorial-00.exe
+C:\Users\natni\source\repos\SSE22-Monday13_03_tasks\Tutorial-00\bin\Debug\net6.0\Tutorial-00.deps.json
+C:\Users\natni\source\repos\SSE22-Monday13_03_tasks\Tutorial-00\bin\Debug\net6.0\Tutorial-00.runtimeconfig.json
+C:\Users\natni\source\repos\SSE22-Monday13_03_tasks\Tutorial-00\bin\Debug\net6.0\Tutorial-00.dll
+C:\Users\natni\source\repos\SSE22-Monday13_03_tasks\Tutorial-00\bin\Debug\net6.0\Tutorial-00.pdb
+C:\Users\natni\source\repos\SSE22-Monday13_03_tasks\Tutorial-00\obj\Debug\net6.0\Tutorial-00.csproj.AssemblyReference.cache
+C:\Users\natni\source\repos\SSE22-Monday13_03_tasks\Tutorial-00\obj\Debug\net6.0\Tutorial-00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natni\source\repos\SSE22-Monday13_03_tasks\Tutorial-00\obj\Debug\net6.0\Tutorial-00.AssemblyInfoInputs.cache
+C:\Users\natni\source\repos\SSE22-Monday13_03_tasks\Tutorial-00\obj\Debug\net6.0\Tutorial-00.AssemblyInfo.cs
+C:\Users\natni\source\repos\SSE22-Monday13_03_tasks\Tutorial-00\obj\Debug\net6.0\Tutorial-00.csproj.CoreCompileInputs.cache
+C:\Users\natni\source\repos\SSE22-Monday13_03_tasks\Tutorial-00\obj\Debug\net6.0\Tutorial-00.dll
+C:\Users\natni\source\repos\SSE22-Monday13_03_tasks\Tutorial-00\obj\Debug\net6.0\refint\Tutorial-00.dll
+C:\Users\natni\source\repos\SSE22-Monday13_03_tasks\Tutorial-00\obj\Debug\net6.0\Tutorial-00.pdb
+C:\Users\natni\source\repos\SSE22-Monday13_03_tasks\Tutorial-00\obj\Debug\net6.0\Tutorial-00.genruntimeconfig.cache
+C:\Users\natni\source\repos\SSE22-Monday13_03_tasks\Tutorial-00\obj\Debug\net6.0\ref\Tutorial-00.dll
