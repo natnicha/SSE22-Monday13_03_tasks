@@ -1,7 +1,6 @@
 # SSE22-Monday13_03_tasks
 
-# Tutorial 00
-## Introduction to C#
+# Tutorial 00 - Introduction to C#
 ## Task 1
 The programming language of the tutorial is C#. Read any C#-Tutorial of your choice (e.g. [homeandlearn.co.uk](https://www.homeandlearn.co.uk/csharp/csharp_s1p1.html)) and create a simple "HelloWorld" console application using Visual Studio. Visual Studio Community can be downloaded from Microsoft. We do NOT recommend Visual Studio Code for the tutorial, as it does not provide support for .NET Framework features used later in the tutorial.
 
