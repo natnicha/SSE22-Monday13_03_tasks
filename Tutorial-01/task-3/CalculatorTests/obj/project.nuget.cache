@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vIihf8LlY8pucUx/qhI1yVtF0k8bce2/BHyBoOxn3rKVVslcqvw97EpiJDs50BY/OKYfGw7lViTSirryBgM2ug==",
+  "dgSpecHash": "jEgzUhFl9iCYAH9pHuaWyCm8hLYX1OMQc4pEYA3jXP2Qd57dLmM0g84OVf5wkf3K7xvXbi+KCcnJGp7iWlVV2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\natni\\source\\repos\\SSE22-Monday13_03_tasks\\Tutorial-01\\CalculatorTests\\CalculatorTests.csproj",
+  "projectFilePath": "C:\\Users\\natni\\source\\repos\\SSE22-Monday13_03_tasks\\Tutorial-01\\task-3\\CalculatorTests\\CalculatorTests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\natni\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\natni\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\natni\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
     "C:\\Users\\natni\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
@@ -12,6 +13,7 @@
     "C:\\Users\\natni\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "C:\\Users\\natni\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.1.0\\microsoft.testplatform.objectmodel.17.1.0.nupkg.sha512",
     "C:\\Users\\natni\\.nuget\\packages\\microsoft.testplatform.testhost\\17.1.0\\microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
+    "C:\\Users\\natni\\.nuget\\packages\\moq\\4.18.2\\moq.4.18.2.nupkg.sha512",
     "C:\\Users\\natni\\.nuget\\packages\\mstest.testframework\\2.2.10\\mstest.testframework.2.2.10.nupkg.sha512",
     "C:\\Users\\natni\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\natni\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
@@ -21,6 +23,7 @@
     "C:\\Users\\natni\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
     "C:\\Users\\natni\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
     "C:\\Users\\natni\\.nuget\\packages\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",
+    "C:\\Users\\natni\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\natni\\.nuget\\packages\\system.diagnostics.tools\\4.0.1\\system.diagnostics.tools.4.0.1.nupkg.sha512",
     "C:\\Users\\natni\\.nuget\\packages\\system.dynamic.runtime\\4.0.11\\system.dynamic.runtime.4.0.11.nupkg.sha512",
     "C:\\Users\\natni\\.nuget\\packages\\system.globalization\\4.0.11\\system.globalization.4.0.11.nupkg.sha512",

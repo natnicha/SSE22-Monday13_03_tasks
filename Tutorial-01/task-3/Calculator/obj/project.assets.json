@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\natni\\source\\repos\\SSE22-Monday13_03_tasks\\Tutorial-01\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\natni\\source\\repos\\SSE22-Monday13_03_tasks\\Tutorial-01\\task-3\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\natni\\source\\repos\\SSE22-Monday13_03_tasks\\Tutorial-01\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\natni\\source\\repos\\SSE22-Monday13_03_tasks\\Tutorial-01\\task-3\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\natni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\natni\\source\\repos\\SSE22-Monday13_03_tasks\\Tutorial-01\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\natni\\source\\repos\\SSE22-Monday13_03_tasks\\Tutorial-01\\task-3\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
