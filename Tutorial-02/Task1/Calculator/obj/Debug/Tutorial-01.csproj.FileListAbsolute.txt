@@ -1,0 +1,6 @@
+E:\xin\School\Master\交換生\Software Service Engineering\Tutorial\Tutorial-01\bin\Debug\Tutorial-01.exe.config
+E:\xin\School\Master\交換生\Software Service Engineering\Tutorial\Tutorial-01\bin\Debug\Tutorial-01.exe
+E:\xin\School\Master\交換生\Software Service Engineering\Tutorial\Tutorial-01\bin\Debug\Tutorial-01.pdb
+E:\xin\School\Master\交換生\Software Service Engineering\Tutorial\Tutorial-01\obj\Debug\Tutorial-01.csprojAssemblyReference.cache
+E:\xin\School\Master\交換生\Software Service Engineering\Tutorial\Tutorial-01\obj\Debug\Tutorial-01.exe
+E:\xin\School\Master\交換生\Software Service Engineering\Tutorial\Tutorial-01\obj\Debug\Tutorial-01.pdb

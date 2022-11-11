@@ -1,0 +1,16 @@
+E:\xin\School\Master\交換生\Software Service Engineering\Tutorial\Tutorial-02\Task2\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\xin\School\Master\交換生\Software Service Engineering\Tutorial\Tutorial-02\Task2\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\xin\School\Master\交換生\Software Service Engineering\Tutorial\Tutorial-02\Task2\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\xin\School\Master\交換生\Software Service Engineering\Tutorial\Tutorial-02\Task2\CalculatorTest\bin\Debug\Test.dll
+E:\xin\School\Master\交換生\Software Service Engineering\Tutorial\Tutorial-02\Task2\CalculatorTest\bin\Debug\Test.pdb
+E:\xin\School\Master\交換生\Software Service Engineering\Tutorial\Tutorial-02\Task2\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\xin\School\Master\交換生\Software Service Engineering\Tutorial\Tutorial-02\Task2\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\xin\School\Master\交換生\Software Service Engineering\Tutorial\Tutorial-02\Task2\CalculatorTest\bin\Debug\Tutorial-01.exe
+E:\xin\School\Master\交換生\Software Service Engineering\Tutorial\Tutorial-02\Task2\CalculatorTest\bin\Debug\Tutorial-01.pdb
+E:\xin\School\Master\交換生\Software Service Engineering\Tutorial\Tutorial-02\Task2\CalculatorTest\bin\Debug\Tutorial-01.exe.config
+E:\xin\School\Master\交換生\Software Service Engineering\Tutorial\Tutorial-02\Task2\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\xin\School\Master\交換生\Software Service Engineering\Tutorial\Tutorial-02\Task2\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\xin\School\Master\交換生\Software Service Engineering\Tutorial\Tutorial-02\Task2\CalculatorTest\obj\Debug\CalculatorTest.csprojAssemblyReference.cache
+E:\xin\School\Master\交換生\Software Service Engineering\Tutorial\Tutorial-02\Task2\CalculatorTest\obj\Debug\CalculatorTest.csproj.CopyComplete
+E:\xin\School\Master\交換生\Software Service Engineering\Tutorial\Tutorial-02\Task2\CalculatorTest\obj\Debug\Test.dll
+E:\xin\School\Master\交換生\Software Service Engineering\Tutorial\Tutorial-02\Task2\CalculatorTest\obj\Debug\Test.pdb
